@@ -1,10 +1,10 @@
-## Welcome to ZhiGao Company
+## 欢迎来到志高公司
 
-You can use the [editor on GitHub](https://github.com/wangzr622/zhigao.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我公司是一家专业做合金锤头公司，我们拥有先进的技术，高质量的产品，拥有竞争力的价格。使用我们的产品，可以为您的公司插上腾飞的翅膀。
 
 ### Markdown
+
+![Image](/img/img1)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
