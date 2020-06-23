@@ -5,7 +5,7 @@
 
 ![Image](/img/img1.JPG)
 
-产品详情[Link](./detail.md)
+[产品详情](./detail.md)
 
 
 ### Support or Contact
